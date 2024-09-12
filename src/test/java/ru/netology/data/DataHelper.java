@@ -5,7 +5,7 @@ import lombok.Value;
 import java.util.Random;
 
 public class DataHelper {
-    public DataHelper() {
+    private DataHelper() {
     }
 
     public static VerificationCode getVerificationCode() {
