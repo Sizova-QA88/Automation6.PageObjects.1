@@ -6,6 +6,7 @@ import java.util.Random;
 
 public class DataHelper {
     private DataHelper() {
+
     }
 
     public static VerificationCode getVerificationCode() {
